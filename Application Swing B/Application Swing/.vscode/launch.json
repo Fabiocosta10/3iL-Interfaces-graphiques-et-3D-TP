@@ -1,0 +1,476 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch SynchronizationTimer",
+            "request": "launch",
+            "mainClass": "EDU.oswego.cs.dl.util.concurrent.misc.SynchronizationTimer",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Version",
+            "request": "launch",
+            "mainClass": "cern.colt.Version",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Benchmark",
+            "request": "launch",
+            "mainClass": "cern.colt.map.Benchmark",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BenchmarkMatrix",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.bench.BenchmarkMatrix",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Statistic",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.doublealgo.Statistic",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Benchmark(1)",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.impl.Benchmark",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BenchmarkMatrix2D",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.impl.BenchmarkMatrix2D",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch NormInfinityTest",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.impl.NormInfinityTest",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch QRTest",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.impl.QRTest",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestMatrix2D",
+            "request": "launch",
+            "mainClass": "cern.colt.matrix.impl.TestMatrix2D",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Benchmark(2)",
+            "request": "launch",
+            "mainClass": "cern.jet.random.Benchmark",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Benchmark(3)",
+            "request": "launch",
+            "mainClass": "cern.jet.random.engine.Benchmark",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomSeedGenerator",
+            "request": "launch",
+            "mainClass": "cern.jet.random.engine.RandomSeedGenerator",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomSampler",
+            "request": "launch",
+            "mainClass": "cern.jet.random.sampling.RandomSampler",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomSamplingAssistant",
+            "request": "launch",
+            "mainClass": "cern.jet.random.sampling.RandomSamplingAssistant",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quantile1Test",
+            "request": "launch",
+            "mainClass": "cern.jet.stat.quantile.Quantile1Test",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuantileCalc",
+            "request": "launch",
+            "mainClass": "cern.jet.stat.quantile.QuantileCalc",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuantileFinderTest",
+            "request": "launch",
+            "mainClass": "cern.jet.stat.quantile.QuantileFinderTest",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WstxSAXParserFactory",
+            "request": "launch",
+            "mainClass": "com.ctc.wstx.sax.WstxSAXParserFactory",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Format",
+            "request": "launch",
+            "mainClass": "corejava.Format",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddNodeDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.AddNodeDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimatingAddNodeDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.AnimatingAddNodeDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnnotationsDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.AnnotationsDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BalloonLayoutDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.BalloonLayoutDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClusteringDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.ClusteringDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawnIconVertexDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.DrawnIconVertexDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch EdgeLabelDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.EdgeLabelDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.GraphDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphEditorDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.GraphEditorDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphFromGraphMLDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.GraphFromGraphMLDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch GraphZoomScrollPaneDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.GraphZoomScrollPaneDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch HyperbolicVertexImageShaperDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.HyperbolicVertexImageShaperDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageEdgeLabelDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.ImageEdgeLabelDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InternalFrameSatelliteViewDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.InternalFrameSatelliteViewDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch L2RTreeLayoutDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.L2RTreeLayoutDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LensDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.LensDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LensVertexImageShaperDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.LensVertexImageShaperDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimumSpanningTreeDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.MinimumSpanningTreeDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiViewDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.MultiViewDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersistentLayoutDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.PersistentLayoutDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerspectiveTransformerDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.PerspectiveTransformerDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerspectiveVertexImageShaperDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.PerspectiveVertexImageShaperDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PluggableRendererDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.PluggableRendererDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadialTreeLensDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.RadialTreeLensDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SatelliteViewDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.SatelliteViewDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShortestPathDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.ShortestPathDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowLayouts",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.ShowLayouts",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleGraphDraw",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.SimpleGraphDraw",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubLayoutDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.SubLayoutDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeCollapseDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.TreeCollapseDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeLayoutDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.TreeLayoutDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoModelDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.TwoModelDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnicodeLabelDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.UnicodeLabelDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VertexCollapseDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VertexCollapseDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VertexCollapseDemoWithLayouts",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VertexCollapseDemoWithLayouts",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VertexImageShaperDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VertexImageShaperDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VertexLabelAsShapeDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VertexLabelAsShapeDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VertexLabelPositionDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VertexLabelPositionDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VisualizationImageServerDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.VisualizationImageServerDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WorldMapGraphDemo",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.samples.WorldMapGraphDemo",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intersector",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.visualization.transform.shape.Intersector",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabelWrapper",
+            "request": "launch",
+            "mainClass": "edu.uci.ics.jung.visualization.util.LabelWrapper",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "hep.aida.ref.Test",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "hep.aida.ref.Test2",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionUtils",
+            "request": "launch",
+            "mainClass": "org.apache.commons.collections15.CollectionUtils",
+            "projectName": "SimulationOf4DCities_v3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "projet.Main",
+            "projectName": "SimulationOf4DCities_v3"
+        }
+    ]
+}
